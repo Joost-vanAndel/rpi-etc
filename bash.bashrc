@@ -43,3 +43,5 @@ export LESS_TERMCAP_ue=$'\E[0m'     # End underline
 export GROFF_NO_SGR=1
 
 alias less='less -Si'
+
+/usr/bin/han-ese-ops_login &
